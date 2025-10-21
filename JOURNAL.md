@@ -16,6 +16,7 @@ I added the main chip, wired some basic connections on the main chip itself, but
 
 ## 10/20/2025 - Added some more gpios, added some basic wiring for the power  
 
-![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf0869fe56dbc651a061ea4ce0e11a285c482ccc/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkxNiwicHVyIjoiYmxvYl9pZCJ9fQ==--40899f77e1dd0092bc93c6665d99b5659285cc80/image.png)
+
 I wired up more GPIO pins, I cant figure out how to do the power pins so in the meanwhile I asked some people on the slack and while they were responding I added a screw terminal and added some capacitors. I also refurbished the schematic section for the other crystal.  
 
