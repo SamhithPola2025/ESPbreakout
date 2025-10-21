@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **ESP32Breakout**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/559).
-
-
 ## 10/16/2025 - Wired some basic connections + did the USB-C wiring  
 
 ![Screenshot 2025-10-16 at 7.55.04 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2NywicHVyIjoiYmxvYl9pZCJ9fQ==--2b3719bdfaca72d922440885e738d19557547de8/Screenshot%202025-10-16%20at%207.55.04%E2%80%AFPM.png)
@@ -17,4 +13,9 @@ You can view this journal in more detail on **Hack Club Blueprint** [here](https
 ![Screenshot 2025-10-16 at 8.04.58 PM.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MjU2OCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6dbe850da535041a0b373fac81d0f91348f0281/Screenshot%202025-10-16%20at%208.04.58%E2%80%AFPM.png)
 
 I added the main chip, wired some basic connections on the main chip itself, but I also added some stuff related to USB-C, infact that is what I spent most of this time on. I also wired up some basic pin headers, might need to change that in the future, but that is some progress. I also took some more time to make sure all of my connections were good; that is important for a devboard.  
+
+## 10/20/2025 - Added some more gpios, added some basic wiring for the power  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzkxNCwicHVyIjoiYmxvYl9pZCJ9fQ==--cf0869fe56dbc651a061ea4ce0e11a285c482ccc/image.png)
+I wired up more GPIO pins, I cant figure out how to do the power pins so in the meanwhile I asked some people on the slack and while they were responding I added a screw terminal and added some capacitors. I also refurbished the schematic section for the other crystal.  
 
