@@ -20,3 +20,10 @@ I added the main chip, wired some basic connections on the main chip itself, but
 
 I wired up more GPIO pins, I cant figure out how to do the power pins so in the meanwhile I asked some people on the slack and while they were responding I added a screw terminal and added some capacitors. I also refurbished the schematic section for the other crystal.  
 
+## 10/21/2025 - Wired important pins on main chip, USB-UART and GPIO's  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMzNywicHVyIjoiYmxvYl9pZCJ9fQ==--9c8e1c72d0d26a1cf969aa12cd524b853a92794d/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMzOCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0acbcaaa2f5cbb2eb109eaf96fe0bca97dfc014/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9d6299d3917377ecc3e1e88aaed9d6d1aa28ab03/image.png)
+I spent a good chunk of my time today just looking through docs to wire some important pins on the main chip right, because if I dont I could have issues with booting it up. I also added some more GPIO's to the headers and ill do power pins tommorow. I added USB-UART and added a stepdown for my battery input from 3.7v to 3.3v, with capacitors ofc to smoothen out the signal.  
+
