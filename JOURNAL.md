@@ -27,3 +27,11 @@ I wired up more GPIO pins, I cant figure out how to do the power pins so in the 
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDMzOSwicHVyIjoiYmxvYl9pZCJ9fQ==--9d6299d3917377ecc3e1e88aaed9d6d1aa28ab03/image.png)
 I spent a good chunk of my time today just looking through docs to wire some important pins on the main chip right, because if I dont I could have issues with booting it up. I also added some more GPIO's to the headers and ill do power pins tommorow. I added USB-UART and added a stepdown for my battery input from 3.7v to 3.3v, with capacitors ofc to smoothen out the signal.  
 
+## 10/24/2025 - Cleaned up schematic, wired PSRAM, wired power pins.  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTM3MCwicHVyIjoiYmxvYl9pZCJ9fQ==--4e9ca8296bb088b4745f79cf6fa21dc1b041fcb0/image.png)
+
+Today I spent a LONG while figuring out how to do the power pins after scraping the internet and my friends for a while. I also took a good chunk of time to wire the PSRAM which is the external RAM that im adding that can be accessed at any time. I also took a lot of time to clean up the schematic formatting AND I did a lot of minor changes like adding some more resistors, inductors capacitors and fixing some wiring where it was needed.
+
+Tommorow the schematic should be done!  
+
