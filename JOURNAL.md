@@ -35,3 +35,9 @@ Today I spent a LONG while figuring out how to do the power pins after scraping 
 
 Tommorow the schematic should be done!  
 
+## 10/25/2025 - Finalizing schematic, assigning footprints and designing.  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzMSwicHVyIjoiYmxvYl9pZCJ9fQ==--172aa98c58358ff1e2c807b06dd66aed7c68dcb0/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb3c840864ccf992ce20b9c54fa493a7261dd151/image.png)
+Today, I took a while to finalize my schematic and send it to some more knowledgable people, and the KiCad discord. Then I spent a long time getting the correct footprints for each parts. And then the main chunk of this time was spend starting with the routing, I got pretty far but I have to figure out something better for the capacitors, as space is limited, I think that wont be too much of a problem however. (note to self: find a better footprint for the usb-c)  
+
