@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "CX2016DB40000D0FLJCC")(type "KiCad")(uri "/Users/samhithpola/Downloads/CX2016DB40000D0FLJCC")(options "")(descr ""))
+  (lib (name "AB38T_32_768KHZ")(type "KiCad")(uri "/Users/samhithpola/Downloads/AB38T_32_768KHZ")(options "")(descr ""))
+)
