@@ -41,3 +41,10 @@ Tommorow the schematic should be done!
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTYzMiwicHVyIjoiYmxvYl9pZCJ9fQ==--cb3c840864ccf992ce20b9c54fa493a7261dd151/image.png)
 Today, I took a while to finalize my schematic and send it to some more knowledgable people, and the KiCad discord. Then I spent a long time getting the correct footprints for each parts. And then the main chunk of this time was spend starting with the routing, I got pretty far but I have to figure out something better for the capacitors, as space is limited, I think that wont be too much of a problem however. (note to self: find a better footprint for the usb-c)  
 
+## 10/26/2025 - Rerouted pcb, chose configuration  
+
+Today was entirely a PCB design day, I had to redo the design twice and mess with a bunch of traces for hours on end to get this to fit and work nicely, but now I have a issue with vias that I dont feel like fixing now, that can wait for tommorow as I still need to figure out the proper fix for it. I also spend a substantial amount of time figuring out the best way to put all the components.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0NCwicHVyIjoiYmxvYl9pZCJ9fQ==--94a51dee9174802819b2179428d3e8189abcdb1e/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a5ebf2b77530d875c3835963469fdfd2409ea416/image.png)
+  
+
