@@ -24,3 +24,4 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 
 ## Cart screenshots
 <img width="1439" height="943" alt="image" src="https://github.com/user-attachments/assets/8624c341-3d77-45fc-994a-085e9256dcdf" />
+<img width="1522" height="681" alt="image" src="https://github.com/user-attachments/assets/9da9a3c2-51cb-4c56-a43e-a05c9d2cf8bf" />
