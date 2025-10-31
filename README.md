@@ -13,10 +13,11 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 <img width="1076" height="685" alt="image" src="https://github.com/user-attachments/assets/56ae9bb1-3af3-482b-a262-22f67b138000" />
 (Pictures of the built version will be added once I get all the components and solder what needs to be soldered, for the most part this is PCBA though.)
 
-Reference,Quantity,Part,Unit Price,Extended Price
-PCBA,1,PCBA Estimate,$114.00,$114.00
-B1,1,TinyCircuits BATTERY LITH-ION 3.7V 1AH,$9.95,$9.95
-C1,1,Pololu 2PIN F JST PH-STYLE CABLE 12CM,$1.47,$1.47
-J1,3,Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB,$0.38,$1.14
-J2,1,Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB,$0.78,$0.78
-,,Total,,"$140.00 (about 5 - 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba)"
+| Reference | Quantity | Part                                                   | Unit Price | Extended Price                                                                                                                                        |
+| --------- | -------- | ------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
+| PCBA      | 1        | PCBA Estimate                                          | $114.00    | $114.00                                                                                                                                               |
+| B1        | 1        | TinyCircuits BATTERY LITH-ION 3.7V 1AH                 | $9.95      | $9.95                                                                                                                                                 |
+| C1        | 1        | Pololu 2PIN F JST PH-STYLE CABLE 12CM                  | $1.47      | $1.47                                                                                                                                                 |
+| J1        | 3        | Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB | $0.38      | $1.14                                                                                                                                                 |
+| J2        | 1        | Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB       | $0.78      | $0.78                                                                                                                                                 |
+| **Total** |          |                                                        |            | **$140.00 (about 5 – 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba)** |
