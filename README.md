@@ -21,3 +21,5 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 | J1        | 3        | Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB | $0.38      | $1.14                                                                                                                                                 |
 | J2        | 1        | Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB       | $0.78      | $0.78                                                                                                                                                 |
 | **Total** |          |                                                        |            | **$137.00 (about 5 – 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba, this is with tax added )** |
+
+## Cart screenshots
