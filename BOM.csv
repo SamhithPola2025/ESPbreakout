@@ -1,4 +1,7 @@
-Qty,Designator,Manufacturer,Part Number,Description,Supplier,Supplier Part Number,Datasheet Link
-1,Y1,Kyocera AVX,CX2016DB40000D0FLJCC,"40 MHz SMD Crystal, 8 pF load, ±10 ppm tolerance, ±15 ppm stability",Digi-Key,4453820,https://www.digikey.com/en/products/detail/kyocera-avx/CX2016DB40000D0FLJCC/4453820
-1,Y2,Abracon LLC,AB38T-32.768KHZ,"32.768 kHz Tuning Fork Crystal, 12.5 pF load, ±20 ppm tolerance, 30000 Ω ESR",Digi-Key,675229,https://www.digikey.com/en/products/detail/abracon-llc/AB38T-32-768KHZ/675229
-1,U1,Espressif,ESP32-S3R8,"2.4 GHz Wi-Fi + Bluetooth LE SoC, Dual-core Xtensa® 32-bit LX7, 8MB PSRAM",Digi-Key,15822451,https://www.digikey.com/en/products/detail/espressif-systems/ESP32-S3R8/15822451
+Reference,Quantity,Part,Unit Price,Extended Price
+PCB,1,PCB Estimate,$114.00,$114.00
+B1,1,TinyCircuits BATTERY LITH-ION 3.7V 1AH,$9.95,$9.95
+C1,1,Pololu 2PIN F JST PH-STYLE CABLE 12CM,$1.47,$1.47
+J1,3,Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB,$0.38,$1.14
+J2,1,Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB,$0.78,$0.78
+,,Total,,$140.00 (about 5 - 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba)
