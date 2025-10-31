@@ -1,7 +1,7 @@
 Reference,Quantity,Part,Unit Price,Extended Price
-PCBA,1,PCBA Estimate,$114.00,$114.00
+PCBA,1,PCBA Estimate,$114.00,$107.59
 B1,1,TinyCircuits BATTERY LITH-ION 3.7V 1AH,$9.95,$9.95
 C1,1,Pololu 2PIN F JST PH-STYLE CABLE 12CM,$1.47,$1.47
 J1,3,Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB,$0.38,$1.14
 J2,1,Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB,$0.78,$0.78
-,,Total,,"$140.00 (about 5 - 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba)"
+,,Total,,"$137.00 (about 5 - 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba)"
