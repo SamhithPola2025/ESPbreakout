@@ -23,3 +23,4 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 | **Total** |          |                                                        |            | **$137.00 (about 5 – 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba, this is with tax added )** |
 
 ## Cart screenshots
+<img width="1439" height="943" alt="image" src="https://github.com/user-attachments/assets/8624c341-3d77-45fc-994a-085e9256dcdf" />
