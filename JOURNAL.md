@@ -48,3 +48,13 @@ Today was entirely a PCB design day, I had to redo the design twice and mess wit
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg0NSwicHVyIjoiYmxvYl9pZCJ9fQ==--a5ebf2b77530d875c3835963469fdfd2409ea416/image.png)
   
 
+## 10/31/2025 - Did FINALIZATIONS, added BOM, and rerouted 4 times  
+
+Yes, call me crazy for rerouting this that many times but I want this to be as good as possible and obviously want it to work. So I rerouted completely and added a BOM, I uploaded to JLCPCB, spent a lot of time fiddling with parts to get cheapest options, fiddled around with positions to make sure it would work (my position file was really weird for some reason). I sent this over to the KiCad discord server and I also sent it over to some people on the slack for review, so this was mostly just a revising session. I had to do some math to figure out if things would work regarding resistance and capacitance, I also took some time to find an appropriate lithium ion battery.
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIwMywicHVyIjoiYmxvYl9pZCJ9fQ==--ea3aaea35e80a829fbfbe2e0e3a68c18220c1d5e/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIwNCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e1da2f0d95330cc1462e4ca818e60665a17f726/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIwNSwicHVyIjoiYmxvYl9pZCJ9fQ==--83c3b8bfae9803fb8381da3c3ed3a0ad25f91be4/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzIwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--9fe0a5722401ed90207f856fa5fa12c56be45aee/image.png)
+
+  
+
