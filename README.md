@@ -13,15 +13,17 @@ I made this board to showcase what I already know, and to learn a lot of new thi
 <img width="1076" height="685" alt="image" src="https://github.com/user-attachments/assets/56ae9bb1-3af3-482b-a262-22f67b138000" />
 (Pictures of the built version will be added once I get all the components and solder what needs to be soldered, for the most part this is PCBA though.)
 
-| Reference | Quantity | Part                                                   | Unit Price | Extended Price                                                                                                                                        |
-| --------- | -------- | ------------------------------------------------------ | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| PCBA      | 1        | PCBA Estimate                                          | $114.00    | $107.59                                                                                                                                              |
-| B1        | 1        | TinyCircuits BATTERY LITH-ION 3.7V 1AH                 | $9.95      | $9.95                                                                                                                                                 |
-| C1        | 1        | Pololu 2PIN F JST PH-STYLE CABLE 12CM                  | $1.47      | $1.47                                                                                                                                                 |
-| J1        | 3        | Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB | $0.38      | $1.14                                                                                                                                                 |
-| J2        | 1        | Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB       | $0.78      | $0.78                                                                                                                                                 |
-| **Total** |          |                                                        |            | **$137.00 (about 5 – 10 extra added, but anything not used will obviously be returned, this is just buffer as pcb part prices can change with pcba, this is with tax added )** |
+| Reference | Quantity | Part                                                   | Unit Price | Extended Price |
+| --------- | -------- | ------------------------------------------------------ | ---------- | -------------- |
+| PCBA      | 1        | PCBA Estimate                                          | $52.55     | $52.55         |
+| B1        | 1        | TinyCircuits BATTERY LITH-ION 3.7V 1AH                 | $9.95      | $9.95          |
+| C1        | 1        | Pololu 2PIN F JST PH-STYLE CABLE 12CM                  | $1.47      | $1.47          |
+| J1        | 3        | Sullins Connector Solutions CONN HDR 4POS 0.1 GOLD PCB | $0.38      | $1.14          |
+| J2        | 1        | Phoenix Contact TERM BLK 2POS SIDE ENTRY 5MM PCB       | $0.78      | $0.78          |
+| **Total** |          |                                                        |            | **$71.89**     |
+
+Note: $6.00 of buffer is added for shipping or tariff changes. Any unused buffer will be returned.
 
 ## Cart screenshots
-<img width="1439" height="943" alt="image" src="https://github.com/user-attachments/assets/8624c341-3d77-45fc-994a-085e9256dcdf" />
-<img width="1522" height="681" alt="image" src="https://github.com/user-attachments/assets/9da9a3c2-51cb-4c56-a43e-a05c9d2cf8bf" />
+<img width="1437" height="648" alt="Screenshot 2025-11-01 at 11 53 29 AM" src="https://github.com/user-attachments/assets/0e2755ed-617e-49c3-af2e-44f0c692a4bf" />
+<img width="1531" height="903" alt="Screenshot 2025-11-01 at 12 08 29 PM" src="https://github.com/user-attachments/assets/68c3818a-f660-4c03-a317-d10051f999db" />
