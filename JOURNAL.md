@@ -58,3 +58,10 @@ Yes, call me crazy for rerouting this that many times but I want this to be as g
 
   
 
+## 11/1/2025 - Changed prices & redid pcba order.  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ5OCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca322f483852a389dda38d71f84b2306370f8af/image.png)
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ5OSwicHVyIjoiYmxvYl9pZCJ9fQ==--ff9924063a6af333c4c5bf8c1ced1bd83817d3ea/image.png)
+After spending a little bit of time revising this, I got the price of the PCBA to be pretty much halved, now the price should be good to go! I also updated the BOM.csv and the BOM in the Readme.md.
+  
+
